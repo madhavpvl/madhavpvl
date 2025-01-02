@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **pvmadhav@asu.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RwWjtlEVs164RuKpTYtlSDdmZQUWwe6T/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1L8wMPFkUpFwN-Xe-65E10vUwrpHTG7El/view?usp=sharing)
 
 - ⚡ Fun fact **I believe insights derived from data have the power to transform businesses and make the world a smarter place.**
 
