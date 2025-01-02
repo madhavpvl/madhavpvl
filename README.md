@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavpvl&label=Profile%20views&color=0e75b6&style=flat" alt="madhavpvl" /> </p>
 
-- 🔭 I’m currently working on [Power BI Report Dashboard Project](https://github.com/madhavpvl/Power-BI-Dashboard.git)
+- 🔭 I’m currently working on [Power BI Report Dashboard Project](https://github.com/madhavpvl/powerbi)
 
 - 🌱 I’m currently learning **Machine Learning, Data Visualization, and Predictive Analytics.**
 
