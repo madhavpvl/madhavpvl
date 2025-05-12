@@ -33,7 +33,7 @@ I am a Business Analytics graduate student at Arizona State University with a st
 
 - 📍 [LinkedIn](https://www.linkedin.com/in/madhavpvl)
 - 📬 Email: **pvmadhav@asu.edu**
-- 🧑‍💻 [Portfolio / Resume](https://drive.google.com/file/d/1L8wMPFkUpFwN-Xe-65E10vUwrpHTG7El/view?usp=sharing)
+- 🧑‍💻 [Portfolio / Resume](https://drive.google.com/file/d/19Mak7bDwzxiWkgt6ujrxXVUvA5qiPMUW/view?usp=sharing)
 - 🌐 [GitHub](https://github.com/madhavpvl)
 
 ---
